@@ -164,7 +164,7 @@ if __name__ == "__main__":
                 "I am CHOW!\n" \
                 "- 🌱 I’m currently learning Flink and TensorFlow.\n" \
                 "- 📫 How to reach me: [Email](mailTo:zhouwenzhen@outlook.com).\n\n" \
-                "🚀 About my Blog:\n"
+                "🚀 About my [Blog](https://www.zhouwenzhen.top):\n"
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
         ["- [{title}]({url}) - {published}".format(**entry) for entry in entries]
