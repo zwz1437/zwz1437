@@ -170,6 +170,4 @@ if __name__ == "__main__":
         ["- [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
 
-    end = "\n --- \n" \
-          "⭐From [zwz1437](https://github.com/zwz1437)\n"
-    readme.open("w", encoding='utf-8').write(rewritten + entries_md + end)
+    readme.open("w", encoding='utf-8').write(rewritten + entries_md)
