@@ -1,16 +1,13 @@
 ### Hi there 👋
+I am CHOW!
+- 🌱 I’m currently learning Flink and TensorFlow.
+- 📫 How to reach me: [Email](mailTo:zhouwenzhen@outlook.com).
 
-<!--
-**zwz1437/zwz1437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About my Blog:
+- [数据库常用架构方案](https://www.zhouwenzhen.top/post/4c1379b8.html) - 2020-07-20
+- [Pipenv vs Virtualenv vs Conda environment](https://www.zhouwenzhen.top/post/dea7acbf.html) - 2020-07-18
+- [初识 Pandas 系列三: 数据读写](https://www.zhouwenzhen.top/post/35c1639e.html) - 2020-07-16
+- [如何删除 docker 镜像和容器？](https://www.zhouwenzhen.top/post/5c3c73a8.html) - 2020-07-15
+- [安利一个自动纠正错误命令的神器](https://www.zhouwenzhen.top/post/8035aa2e.html) - 2020-07-14
+ --- 
+⭐From [zwz1437](https://github.com/zwz1437)
