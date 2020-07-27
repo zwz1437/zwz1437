@@ -103,7 +103,7 @@ def fetch_tils():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://www.zhouwenzhen.top/atom.xml")["entries"]
+    entries = feedparser.parse("https://www.zhouwenzhen.top/feed/")["entries"]
     print(entries)
     return [
         {
