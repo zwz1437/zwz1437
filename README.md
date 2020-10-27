@@ -4,8 +4,8 @@ I am CHOW!
 - 📫 How to reach me: [Email](mailTo:zhouwenzhen@outlook.com).
 
 🚀 About my [Blog](https://www.zhouwenzhen.top):
-- [Python框架比较-如何选择最佳的框架进行Web开发？](https://www.zhouwenzhen.top/81.html) - Sat, 25 Jul 2020 05:58:39 +0000
-- [CNN、RNN、GAN都是什么？终于有人讲明白了](https://www.zhouwenzhen.top/107.html) - Fri, 24 Jul 2020 06:19:11 +0000
-- [感知哈希算法](https://www.zhouwenzhen.top/93.html) - Wed, 22 Jul 2020 06:10:32 +0000
-- [初识Pandas系列三-数据读写（下）](https://www.zhouwenzhen.top/58.html) - Wed, 22 Jul 2020 03:39:18 +0000
-- [Prometheus-AlertManager-Supervisor-钉钉告警](https://www.zhouwenzhen.top/90.html) - Mon, 20 Jul 2020 06:15:39 +0000
+- [记录一次clickhouse表新增字段遇到的问题](https://www.zhouwenzhen.top/archives/104/) - Fri, 23 Oct 2020 10:11:00 +0800
+- [使用Python生成LaTeX 数学公式](https://www.zhouwenzhen.top/archives/48/) - 
+- [Prometheus监控原理](https://www.zhouwenzhen.top/archives/46/) - 
+- [猫主子](https://www.zhouwenzhen.top/archives/40/) - 
+- [Linux之screen命令使用技巧](https://www.zhouwenzhen.top/archives/3/) - 
